@@ -1,8 +1,0 @@
-adminuser=admin
-adminpass=teste123
-domain="\@lm2.com.br"
-passworday=testlm2
-opt_mailto=helkmut@gmail.com
-pathbackup=/opt/zimbra/backup
-backup_persistence=0
-onlyactiveaccounts=1
