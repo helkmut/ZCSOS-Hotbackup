@@ -1,0 +1,8 @@
+adminuser=admin
+adminpass=teste123
+domain="\@domain.com.br"
+passworday=test
+opt_mailto=helkmut@gmail.com
+pathbackup=/opt/zimbra/backup
+backup_persistence=0
+onlyactiveaccounts=1
